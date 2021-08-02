@@ -1,0 +1,110 @@
+﻿.temizle {
+    clear:both;
+}
+.red{
+    color:red;
+
+}
+.blue{
+    color:blue;
+}
+.fa.fa-square {
+    color: #179ADF;
+}
+body {
+    margin: 0px;
+    padding: 0px;
+}
+.ust {
+    background-color: #ddd;
+}
+#ust-sol a {
+    font-size: 13px;
+    color: #555;
+    text-decoration:none;
+    padding:8px;
+   
+    display:inline;
+}
+#ust-sol {
+    margin-left: 15px;
+}
+#ust-orta {
+    padding: 0px -10px;
+    padding-left: 500px;
+    display: inline-block;
+    
+}
+.lightblue {
+    color: #555 !important;
+}
+#isim {
+    line-height: 30px;
+    font-size: 35px !important;
+    margin-bottom:50px;
+    margin-top:50px;
+    margin-left:50px;
+    
+
+}
+#isim a{
+    text-decoration:none;
+    
+}
+#sol-menu a{
+    text-decoration:none;
+    font-size:19px;
+    float:left;
+    padding:10px;
+    color:black;
+  
+   
+}
+#sol-menu li {
+    list-style: none;
+    margin-left: 650px;
+    margin-bottom:-70px;
+}
+#sol-menu a:hover {
+    background-color: #F2F2F2;
+}
+
+#menu-alt {
+    background-color: red;
+    height: 40px;
+    
+    text-align: center;
+    margin-top:50px;
+    padding-top:10px;
+
+}
+    #menu-alt a {
+    
+        text-decoration: none;
+        font-size:18px;
+        color: #fff !important;
+        font-weight: bold;
+        padding: 9px;
+    }
+#ust-4 {
+    width: 100%;
+    height: 100%;
+    background: #1C7BFF;
+    padding: 50px;
+    border-top: 6px solid #ddd !important;
+    border-bottom: 3px solid #ddd !important;
+    color: white;
+    margin-top:10px;
+}
+    #ust-4 i {
+        font-size: 35px;
+        line-height: 35px;
+        font-weight: 600;
+        color: white;
+    }
+
+        #ust-4 span{
+           
+       
+
+              }

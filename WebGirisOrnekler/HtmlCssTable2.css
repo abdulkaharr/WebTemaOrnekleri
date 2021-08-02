@@ -1,0 +1,14 @@
+﻿td,th{
+    width:4em;
+    height:2em;
+    border:1px solid #ccc;
+    text-align:center;
+}
+th {
+    background-color:#267ed3;
+    border-color:white;
+    color:#dddd;
+}
+body {
+    padding:1em;
+}

@@ -1,0 +1,15 @@
+﻿table {
+    font-family: Consolas;
+    border-collapse: collapse;
+    width: 40em;
+}
+
+tr, th {
+    border: 1px solid #dddd;
+    text-align: left;
+    padding: 8px;
+}
+
+    tr:nth-child(even) {
+        background-color: #dddd;
+    }
